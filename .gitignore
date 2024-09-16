@@ -6,3 +6,4 @@ Scripts/
 pyenv.cfg
 
 .DS_Store
+**/*/wandb/
